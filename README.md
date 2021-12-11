@@ -9,8 +9,13 @@
 <a target="_blank" href="https://www.linkedin.com/in/gandhy-garcía-castañeda-897421227/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <br>
 <a target="_blank" href="https://www.facebook.com/gandhygarcia/"><img src="https://img.shields.io/badge/-Facebook-blue"></img></a>
+<br>
+<a target="_blank" href="https://www.instagram.com/gandhygarcia1/"><img src="https://img.shields.io/badge/-Instagram-critical"></img></a>
 </div>
 <br>
+
+<!-- Roles -->
+<p align="center">Software Engineering student at Escuela Politécnica Nacional 🇪🇨</p>
 
 <!--
 **GandhyCrush/GandhyCrush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
