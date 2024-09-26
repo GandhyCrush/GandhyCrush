@@ -15,7 +15,7 @@
 <br>
 
 <!-- Roles -->
-<p align="center">Software Engineering student at Escuela Politécnica Nacional 🇪🇨</p>
+<p align="center">Software Engineer. Graduated from Escuela Politécnica Nacional 🇪🇨</p>
 
 <!--
 **GandhyCrush/GandhyCrush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
